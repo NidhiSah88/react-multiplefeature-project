@@ -15,7 +15,7 @@ export default function App() {
       <h1> From app.js</h1>
       {/* CODE refrence: https://www.youtube.com/watch?v=Xc_MPV9EtNs&list=PLRzDZcVlPhe3WhTHvWawV4WvxT2585BrG&index=4
       saifi code */}
-      <h3>Register, Login & Logout, navigationguard feature </h3>
+      <h3>Register, Login & Logout, navigationguard, routeing in react feature </h3>
       <h3>
         {" "}
         get-post api, useEffect, async-await, userlist displayed from api
